@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am currently a student at Brigham Young University. I am part of the statistics major with an emphasis in data science.
 
 <!--
 **brandonskeele/brandonskeele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
